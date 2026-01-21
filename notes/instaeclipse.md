@@ -1,3 +1,3 @@
 # Instaeclipse 
 
-Use ['advanced'](https://wispydocs.pages.dev/revanced-obtainium/#advanced) to build clean apks, or use antisplitm with revanced manager.
+You may need to use antisplit-m to get the apk then patch in revanced manager with 'Disable signature check'.
