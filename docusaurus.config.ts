@@ -56,12 +56,6 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'notesSidebar',
-          position: 'left',
-          label: 'Notes',
-        },
-        {
           href: 'https://github.com/VVispy/FMHYnotes',
           label: 'GitHub',
           position: 'right',
